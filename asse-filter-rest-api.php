@@ -1,3 +1,4 @@
+<?php
 // Returning an authentication error if a user who is not logged in tries to query the REST API
 add_filter( 'rest_authentication_errors', function( $access ) {
    if( ! is_user_logged_in() ) {
