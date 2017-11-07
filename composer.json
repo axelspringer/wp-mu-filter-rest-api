@@ -1,0 +1,20 @@
+{
+    "name": "muplugin/asse-filter-rest-api",
+    "type": "wordpress-muplugin",
+    "description": "asse filter rest api",
+    "keywords": [
+        "wordpress",
+        "muplugin"
+    ],
+    "authors": [
+        {
+            "name": "Developer",
+            "homepage": "http://www.axelspringer.de"
+        }
+    ],
+    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/asse-filter-rest-api/browse",
+    "license": "proprietary",
+    "extra": {
+        "installer-name": "asse-filter-rest-api"
+    }
+}
