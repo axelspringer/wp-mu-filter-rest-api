@@ -1,20 +1,24 @@
 {
-    "name": "muplugin/asse-filter-rest-api",
-    "type": "wordpress-muplugin",
-    "description": "asse filter rest api",
-    "keywords": [
-        "wordpress",
-        "muplugin"
-    ],
-    "authors": [
-        {
-            "name": "Developer",
-            "homepage": "http://www.axelspringer.de"
-        }
-    ],
-    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/asse-filter-rest-api/browse",
-    "license": "proprietary",
-    "extra": {
-        "installer-name": "asse-filter-rest-api"
+  "name": "axelspringer/asse-filter-rest-api",
+  "type": "wordpress-muplugin",
+  "description": "axelspringer filter rest api",
+  "keywords": [
+    "wordpress",
+    "muplugin"
+  ],
+  "authors": [
+    {
+      "name": "Developer",
+      "homepage": "http://www.axelspringer.de"
+    },
+    {
+      "name": "Mathias Witt",
+      "homepage": "http://www.axelspringer.de"
     }
+  ],
+  "homepage": "https://github.com/axelspringer/wp-mu-filter-rest-api",
+  "license": "Apache-2.0",
+  "extra": {
+    "installer-name": "wp-mu-filter-rest-api"
+  }
 }
