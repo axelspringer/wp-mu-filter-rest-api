@@ -1,5 +1,5 @@
 {
-  "name": "axelspringer/asse-filter-rest-api",
+  "name": "axelspringer/wp-mu-filter-rest-api",
   "type": "wordpress-muplugin",
   "description": "axelspringer filter rest api",
   "keywords": [
